@@ -1,0 +1,11 @@
+{
+  "name": "rails-tutorial",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "bulma": "^0.7.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
