@@ -1,4 +1,4 @@
-class RootController < ApplicationController
+class RootController < WebController
   def index
   end
 end
