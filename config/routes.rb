@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  scope module: :web do
+  scope module: :web, as: :web do
     root to: 'root#index'
 
     resource :sign_in, only: %i[show]
