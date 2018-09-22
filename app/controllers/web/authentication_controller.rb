@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class Web::UserController < ApplicationController
+class Web::AuthenticationController < ::WebController
   private
 
   def current_user
