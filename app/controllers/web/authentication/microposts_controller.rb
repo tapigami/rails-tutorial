@@ -1,4 +1,4 @@
-class Web::MicropostsController < Web::UserController
+class Web::Authentication::MicropostsController < ::Web::AuthenticationController
   before_action :set_micropost, only: [:show, :edit, :update, :destroy]
 
   # GET /microposts
