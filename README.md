@@ -1,17 +1,19 @@
 # README
 
+初心者と作る、ガチRails Tutorial
 
-こんにちは！　西上です！
+## 参加方法
 
-Rails Tutorialに協力してくれるメンバー募集です！！
+DMください
 
-https://github.com/tapigami/rails-tutorial
+
+https://twitter.com/_tapigami
 
 ## なに？
 ruby, rails歴５年の自分がrails tutorialをやろうと思いました。
 ただし、
 
-本気で。
+本気で。  
 会社の実プロジェクトクオリティで。
 
 です。
@@ -44,8 +46,11 @@ rails 初心者のみなさんと一緒に作ることにしました！！
 
 ## きっかけ
 Rails 初心者って　rails tutorialから入る。
+
 それくらいrails tutorialは有名でよくできてる。
+
 けど初心者がrails tutorialやっても会社では働けない。
+
 なぜか。
 
 3点。
@@ -55,6 +60,7 @@ Rails 初心者って　rails tutorialから入る。
 - 集団開発に慣れてない。
 
 なら事前にやろうよ！
+
 ここで。
 
 ----------------
